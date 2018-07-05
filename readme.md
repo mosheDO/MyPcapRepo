@@ -1,11 +1,11 @@
 
+## PCAP Repo
 **A repo of pcap files for training forensics**
 
-> for every pcap file you have a txt file with the same name and the
-> solution
+> For every *`pcap`* file you have a file with the same name and a *`txt`* extension with the flag and how to found that.
 
+*enjoy!*
 
-enjoy!
+## How to contribute:
 
-> if you have more files pls open a pr with the level of difficult and i
-> will add it.
+> You can try to solve the pcap files in the unsolved folder or adding new files with or without a solution and a level of difficulty if you solved it please send the solution flag and how you solved it.
